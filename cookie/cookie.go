@@ -14,22 +14,7 @@ import (
 	"strings"
 	"sync"
 	"time"
-	
-	/**
-	* Session类，Session集合类
-	* 2016.09.30， 添加同一Session多站点应用的支持
-	 */
-	
-	import (
-		"container/list"
-		"crypto/rand"
-		"encoding/base64"
-		"fmt"
-		"net/http"
-		"strings"
-		"sync"
-		"time"
-	)
+)
 	
 	var (
 		// Sessions 全局单例SessionSet
