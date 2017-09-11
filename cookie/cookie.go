@@ -1,4 +1,4 @@
-package session
+package cookie
 
 /**
 * Session类，Session集合类
@@ -13,7 +13,7 @@ import (
 	"net/http"
 	"strings"
 	"sync"
-	"time"package session
+	"time"
 	
 	/**
 	* Session类，Session集合类
